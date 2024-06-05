@@ -1,0 +1,36 @@
+html{
+}
+body{
+    background-image: url("https://i.redd.it/fxe9vi9k2be71.png");
+    
+    
+}
+header{
+    text-align: center;
+}
+h1{
+    margin: 0px;
+    font-size: 300%;
+}
+h2{
+    color: #E73B16;
+    font-size: 200%;
+}
+footer{
+    margin-top: 30px;
+    font-size: 75%;
+    text-align: center;
+}
+
+code{
+    display: block;
+    margin-left: 20px;
+}
+
+#homepage{
+	text-align: center;
+}
+
+footer {
+color:aquamarine;
+}
